@@ -58,17 +58,17 @@ Amplitude.init({
             "cover_art_url": "http://placehold.it/400x400/acf/"
         },
         {
-            "name": "Gimme One Drop",
-            "artist": "Tarrus Riley",
-            "album": "Unity Sound Dubplate",
-            "url": "songs/tarrusRiley-gimmeOneDrop.mp3",
-            "cover_art_url": "http://placehold.it/400x400/acf/"
-        },
-        {
             "name": "Beat & A Mic",
             "artist": "Chronixx",
             "album": "Unity Sound Dubplate",
             "url": "songs/chronixx-beatAndAMic.mp3",
+            "cover_art_url": "http://placehold.it/400x400/acf/"
+        },
+        {
+            "name": "Gimme One Drop",
+            "artist": "Tarrus Riley",
+            "album": "Unity Sound Dubplate",
+            "url": "songs/tarrusRiley-gimmeOneDrop.mp3",
             "cover_art_url": "http://placehold.it/400x400/acf/"
         },
         {
