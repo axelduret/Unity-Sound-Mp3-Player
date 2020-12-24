@@ -1,0 +1,10 @@
+{
+  "name": "amplitudejs",
+  "version": "1.0.0",
+  "description": "Mp3 player for Unity Sound Website",
+  "author": "Axel Duret",
+  "license": "MIT",
+  "dependencies": {
+    "amplitudejs": "^5.2.0"
+  }
+}
